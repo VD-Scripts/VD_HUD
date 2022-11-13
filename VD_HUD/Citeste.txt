@@ -1,0 +1,7 @@
+Salutare, aici ai un hud care iti arata banii, banii din banca, coins-urile, ID-ul, procente viata si procente armura.
+
+Sper sa va bucurati de el.
+
+pentru probleme,support si mai multe resurse gratis : discord.io/vdscripts
+
+Credite: VD-Scripts (DariusMen#8109 & VladRPG#1007)

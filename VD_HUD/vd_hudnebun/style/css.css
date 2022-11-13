@@ -1,0 +1,276 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: right;
+    color: white;
+    font-size: 1.8vh;
+    font-family: 'Oswald', sans-serif;
+}
+
+#babanii1{
+    position: absolute;
+    top: 13%;
+    left: 93.7%;
+    transform: translate(-50%, -50%);
+    display: grid;
+    overflow: hidden;
+    background: none;
+}
+
+.bani{
+    background: linear-gradient(to right, rgb(55, 0, 100), transparent);
+    width: 10vw;
+    height: 7vh;
+    border-left: 0.3vh solid purple;
+    border-radius: 0.5vh;
+}
+ 
+.bbani{
+    margin-top: 1.3vh;
+    margin-right: 7vh;
+    background: none;
+}
+
+.bank{
+    margin-top: -0.5vh;
+    margin-right: 7vh;
+    background: none;
+    font-size: 1.6vh;
+    opacity: 50%;
+}
+
+.bordofel{
+    width: 1.5vw;
+    position: absolute;
+    top: 50%;
+    left: 77%;
+    transform: translate(-50%, -50%);
+    background: none;
+}
+
+.jh{
+    position: absolute;
+    top: 50%;
+    left: 93%;
+    transform: translate(-50%, -50%);
+    width: 0.25vw;
+    height: 5vh;
+    background: purple;
+    border-radius: 1vh;
+    box-shadow: 0 0 1.5vh purple;
+}
+
+.beni{
+    position: absolute;
+    top: 65%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    width: 5vw;
+    background: none;
+    opacity: 10%;
+}
+
+/* ------------------------------------------------------------------ */
+
+#babanii2{
+    position: absolute;
+    top: 19.5%;
+    left: 94.15%;
+    transform: translate(-50%, -50%);
+    display: grid;
+    overflow: hidden;
+    background: none;
+}
+
+.coins{
+    background: linear-gradient(to right, rgb(55, 0, 100), transparent);
+    width: 9vw;
+    height: 5vh;
+    border-left: 0.29vh solid purple;
+    border-radius: 0.5vh;
+}
+ 
+.ccoins{
+    margin-top: 1.2vh;
+    margin-right: 6.5vh;
+    background: none;
+}
+
+.logou{
+    width: 1.5vw;
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    background: none;
+}
+
+.jh2{
+    position: absolute;
+    top: 50%;
+    left: 93%;
+    transform: translate(-50%, -50%);
+    width: 0.2vw;
+    height: 3.5vh;
+    background: purple;
+    border-radius: 1vh;
+    box-shadow: 0 0 1.5vh purple;
+}
+
+.beni2{
+    position: absolute;
+    top: 60%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    width: 5vw;
+    background: none;
+    opacity: 10%;
+}
+
+/* ------------------------------------------------------------------ */
+
+.armura{
+    position: absolute;
+    top: 26.5%;
+    left: 96.5%;
+    transform: translate(-50%, -50%);
+    width: 3.7vw;
+    height: 6.7vh;
+    border-radius: 50%;
+    background: linear-gradient(to right, rgb(55, 0, 100), transparent);
+    border: 0.1vh solid purple;
+    overflow: hidden;
+}
+
+.armurajh{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: none;
+    opacity: 70%;
+}
+
+.armuraiconita{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 1.2vw;
+    background: none;
+}
+
+.armuraiconita2{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 2.5vw;
+    background: none;
+    opacity: 10%;
+}
+
+.viata{
+    position: absolute;
+    top: 26.5%;
+    left: 92%;
+    transform: translate(-50%, -50%);
+    width: 3.7vw;
+    height: 6.7vh;
+    border-radius: 50%;
+    background: linear-gradient(to right, rgb(55, 0, 100), transparent);
+    border: 0.1vh solid purple;
+    overflow: hidden;
+}
+
+.viatajh{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: none;
+    opacity: 70%;
+}
+
+.viataiconita{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 1.2vw;
+    background: none;
+}
+
+.viataiconita2{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 2.5vw;
+    background: none;
+    opacity: 10%;
+}
+
+/* ------------------------------------------------------------------ */
+
+.svname{
+    position: absolute;
+    top: 5%;
+    left: 92.5%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    gap: 1vh;
+    width: 15vw;
+}
+
+.namesv{
+    font-size: 3.5vh;
+    margin-left: -1vh;
+    margin-top: 0.5vh;
+}
+
+.logomen{
+    width: 4vw;
+}
+
+.id{
+    position: absolute;
+    margin-top: 5vh;
+    margin-left: -16.5vh;
+    background: none;
+}
+
+.usermen{
+    width: 1vw;
+    margin-top: 5.3vh;
+    margin-left: -19.5vh;
+}
+
+.divmen{
+    position: absolute;
+    top: 50%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    background: purple;
+    height: 4.5vh;
+    width: 0.2vw;
+    rotate: 26deg;
+    border-radius: 1vh;
+    box-shadow: 0 0 1.5vh purple;
+}
+
+.divmen2{
+    position: absolute;
+    background: linear-gradient(to right, transparent, purple);
+    margin-top: 6.5vh;
+    margin-left: 16.5vh;
+    height: 0.4vh;
+    width: 4vw;
+    border-radius: 1vh;
+}
